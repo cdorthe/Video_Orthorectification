@@ -3,7 +3,7 @@
 ## Description
 This project provides MATLAB codes to orthorectify each frame of a drone video using an orthophoto. It is designed for applications in Large Scale Particle Image Velocimetry (LSPIV) and similar research areas where precise spatial alignment is critical for analyzing motion or flow dynamics. 
 
-**Author**: Clémence Dorthe (adapted from Britta Götz's work)  
+**Author**: Clémence Dorthe - Eidg. Forschungsanstalt für Wald, Schnee und Landschaft WSL- ETH Zürich (adapted from Britta Götz's work - Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie - ETH Zürich)  
 **Last Edited**: 27.01.2025
 
 ## Features
