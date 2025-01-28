@@ -37,7 +37,7 @@ To use the code, follow these steps:
 
 5. During execution:
    - You will be prompted to manually define common features between a video frame and the orthophoto.
-   - Define a mask to select the region of interest (ROI).
+   - Define a mask to select the region of interest.
 
 6. Once complete, the orthorectified video will be saved in the specified output folder.
 
